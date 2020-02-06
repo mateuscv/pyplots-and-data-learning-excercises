@@ -1,0 +1,2 @@
+Arquivos produzidos durante o curso gratuito da Udemy "Data Science: Visualização de Dados com Python", dado pelo instrutor Diego Mariano.
+https://www.udemy.com/course/visualizacao-de-dados-com-python/

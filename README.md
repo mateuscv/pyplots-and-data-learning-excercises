@@ -1,0 +1,1 @@
+Repositório genérico de algoritmos e produções relativas à alguns exercícios e cursos de aprendizado em visualização e análise de dados em Python.
